@@ -1,5 +1,0 @@
-services:
-  - type: web
-    name: motivation-site
-    env: static
-    staticPublishPath: public
