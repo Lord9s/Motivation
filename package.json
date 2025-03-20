@@ -1,0 +1,14 @@
+{
+  "name": "motivation",
+  "version": "1.0.0",
+  "description": "A motivational quotes website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jayden Smith",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
