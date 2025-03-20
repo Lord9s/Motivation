@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Jayden Smith",
+  "author": "Lord9s",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
