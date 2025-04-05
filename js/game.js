@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function displayQuote() {
         const quote = quotes[currentQuoteIndex];
-        quoteContainer.querySelector('#quote').textContent = `"${quote.text}"`;
+        quoteContainer.querySelector('#quote').textContent = `\"${quote.text}\"`;
         feedback.textContent = '';
     }
 
